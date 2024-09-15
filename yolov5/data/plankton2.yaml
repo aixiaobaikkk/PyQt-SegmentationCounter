@@ -1,0 +1,12 @@
+# Custom data for safety helmet
+
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: D:\deep_learn\yolov5-6.2\plankton\plankton2\images\train
+val: D:\deep_learn\yolov5-6.2\plankton\plankton2\images\val
+
+# number of classes
+nc: 4
+
+# class names
+names: ['0','1','2','3']
